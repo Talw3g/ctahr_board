@@ -1,3 +1,5 @@
 *.bak
 *.kicad_pcb-bak
 *.kicad_sch.lck
+\#auto_saved_files\#
+ctahr_board-backups/*

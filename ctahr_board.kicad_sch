@@ -1,5 +1,203 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "dea08218-351b-4b2b-ab50-f60349a3e49f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 132.08 77.47)
+		(size 48.26 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "07657bff-6ffd-408a-b8da-7c62a84f1354")
+		(property "Sheetname" "Sensors"
+			(at 132.08 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 132.08 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ctahr_board"
+				(path "/dea08218-351b-4b2b-ab50-f60349a3e49f"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 30.48)
+		(size 51.435 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "486f9892-63c8-42a4-9b8e-7742248a050b")
+		(property "Sheetname" "Power"
+			(at 130.81 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 130.81 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ctahr_board"
+				(path "/dea08218-351b-4b2b-ab50-f60349a3e49f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 76.2)
+		(size 44.45 31.115)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c249c2b-c27e-445f-b0a1-5d3b2589c1e4")
+		(property "Sheetname" "Outputs"
+			(at 207.01 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "outputs.kicad_sch"
+			(at 207.01 107.8996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ctahr_board"
+				(path "/dea08218-351b-4b2b-ab50-f60349a3e49f"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 29.845)
+		(size 73.025 48.26)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec8e726a-94a6-4011-a5bd-9e0cc5d57e5c")
+		(property "Sheetname" "Connectors"
+			(at 29.21 29.1334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 29.21 78.6896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ctahr_board"
+				(path "/dea08218-351b-4b2b-ab50-f60349a3e49f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 29.845)
+		(size 46.99 28.575)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fd37ae08-3ac7-486c-9875-bbdb98c8ae1b")
+		(property "Sheetname" "Relays"
+			(at 204.47 29.1334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relays.kicad_sch"
+			(at 204.47 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ctahr_board"
+				(path "/dea08218-351b-4b2b-ab50-f60349a3e49f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
