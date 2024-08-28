@@ -18,10 +18,10 @@
 		)
 		(uuid "07657bff-6ffd-408a-b8da-7c62a84f1354")
 		(property "Sheetname" "Sensors"
-			(at 132.08 76.7584 0)
+			(at 132.08 74.8534 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 5.08 5.08)
 				)
 				(justify left bottom)
 			)
@@ -56,10 +56,10 @@
 		)
 		(uuid "486f9892-63c8-42a4-9b8e-7742248a050b")
 		(property "Sheetname" "Power"
-			(at 130.81 29.7684 0)
+			(at 130.81 27.8634 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 5.08 5.08)
 				)
 				(justify left bottom)
 			)
@@ -94,10 +94,10 @@
 		)
 		(uuid "8c249c2b-c27e-445f-b0a1-5d3b2589c1e4")
 		(property "Sheetname" "Outputs"
-			(at 207.01 75.4884 0)
+			(at 207.01 73.5834 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 5.08 5.08)
 				)
 				(justify left bottom)
 			)
@@ -132,10 +132,10 @@
 		)
 		(uuid "ec8e726a-94a6-4011-a5bd-9e0cc5d57e5c")
 		(property "Sheetname" "Connectors"
-			(at 29.21 29.1334 0)
+			(at 29.21 27.2284 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 5.08 5.08)
 				)
 				(justify left bottom)
 			)
@@ -170,10 +170,10 @@
 		)
 		(uuid "fd37ae08-3ac7-486c-9875-bbdb98c8ae1b")
 		(property "Sheetname" "Relays"
-			(at 204.47 29.1334 0)
+			(at 204.47 27.2284 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 5.08 5.08)
 				)
 				(justify left bottom)
 			)
