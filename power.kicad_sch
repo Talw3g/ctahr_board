@@ -4282,7 +4282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitors:SCMR22J105SRBA0_vertical"
+		(property "Footprint" "Capacitors:SCMR22G105SRBA0_vertical"
 			(at 113.9952 62.23 0)
 			(effects
 				(font
@@ -6173,7 +6173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitors:SCMR22J105SRBA0_vertical"
+		(property "Footprint" "Capacitors:SCMR22G105SRBA0_vertical"
 			(at 113.9952 80.01 0)
 			(effects
 				(font
